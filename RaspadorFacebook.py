@@ -3,7 +3,7 @@ import sqlite3
 import time
 
 # Configura tu token de acceso y la lista de grupos
-ACCESS_TOKEN = "EAAQIgGsyX6UBO6t4gOA9cW8n0XlBUQ7ESCkRKL2FKXIOE0OYxyzOk0EGEIZAzMpntZB8d3uRfCjNAMji5VT1Qk4w2TK6aV1mjmERVD2OZAogkkwreTru1DFoTDacZCiZAVjtJZCv8j5zdSrxGmSJhOJv3X4hDv2hnqz9saazAEPdKpUgsiNtpAhMMaRhtirlNfQoR4ZBjGnIYy0xiIY6UdsKxuFfzGyYdniKjZB3w0EAXhJ5qP6hpo5G2fVDE6tJGDhk967h4XpSaEB2"
+ACCESS_TOKEN = ""
 group_id = ["", "", ""]  # Lista de IDs de grupos
 BASE_URL = "https://graph.facebook.com/v12.0"
 

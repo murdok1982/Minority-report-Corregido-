@@ -25,6 +25,7 @@
 - [Configuration](#configuration)
 - [Examples](#examples)
 - [Security Considerations](#security-considerations)
+- [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -208,6 +209,37 @@ print(f"Report saved to: {report_path}")
 
 This software is provided for educational and authorized security research purposes only. Users are responsible for ensuring their use complies with all applicable laws and regulations. Unauthorized surveillance, data collection, or profiling may be illegal in your jurisdiction.
 
+## 💰 Support This Project
+
+<div align="center">
+
+### ₿ Bitcoin Donations Welcome!
+
+<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+
+```
+┌─────────────────────────────────────┐
+│    ₿  BTC Donation Address  ₿      │
+├─────────────────────────────────────┤
+│                                     │
+│  bc1qqphwht25vjzlptwzjyjt3sex     │
+│  7e3p8twn390fkw                    │
+│                                     │
+│  Network: Bitcoin (BTC)             │
+│  Scan QR ↓                          │
+└─────────────────────────────────────┘
+```
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bitcoin:bc1qqphwht25vjzlptwzjyjt3sex7e3p8twn390fkw" alt="Bitcoin QR Code" width="200"/>
+
+**Address:** `bc1qqphwht25vjzlptwzjyjt3sex7e3p8twn390fkw`
+
+*Your donations help maintain and improve this open-source project!* 🙏
+
+</div>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -229,36 +261,13 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2024 murdok1982
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
 ## 👤 Author
 
 **murdok1982**
 
 - GitHub: [@murdok1982](https://github.com/murdok1982)
-- Repository: [Minority-report-Corregido](https://github.com/murdok1982/Minority-report-Corregido-)
+- LinkedIn: [Gustavo Lobato Clara](https://www.linkedin.com/in/gustavo-lobato-clara-2b446b102/)
+- Email: gustavolobatoclara@gmail.com
 
 ## 🙏 Acknowledgments
 
